@@ -1,0 +1,21 @@
+body{
+	background-color: lightblue;
+}
+h1{
+	color: teal; background-color: black; border: 1px solid teal
+}
+p{
+	color: black;
+}
+.bg_white{
+	background-color: white 
+}
+.h2{
+	color: teal; font-size: 3em
+}
+.about-p{
+	color: black;
+}
+.h3{
+	color: teal; font-size: 2em
+}
